@@ -15,31 +15,6 @@
           description = "Clojure development environment";
         };
 
-        cue = {
-          path = ./cue;
-          description = "Cue development environment";
-        };
-
-        dhall = {
-          path = ./dhall;
-          description = "Dhall development environment";
-        };
-
-        elixir = {
-          path = ./elixir;
-          description = "Elixir development environment";
-        };
-
-        elm = {
-          path = ./elm;
-          description = "Elm development environment";
-        };
-
-        gleam = {
-          path = ./gleam;
-          description = "Gleam development environment";
-        };
-
         go = {
           path = ./go;
           description = "Go (Golang) development environment";
@@ -60,21 +35,6 @@
           description = "Java development environment";
         };
 
-        kotlin = {
-          path = ./kotlin;
-          description = "Kotlin development environment";
-        };
-
-        nickel = {
-          path = ./nickel;
-          description = "Nickel development environment";
-        };
-
-        nim = {
-          path = ./nim;
-          description = "Nim development environment";
-        };
-
         nix = {
           path = ./nix;
           description = "Nix development environment";
@@ -83,16 +43,6 @@
         node = {
           path = ./node;
           description = "Node.js development environment";
-        };
-
-        opa = {
-          path = ./opa;
-          description = "Open Policy Agent development environment";
-        };
-
-        php = {
-          path = ./php;
-          description = "PHP development environment";
         };
 
         protobuf = {
